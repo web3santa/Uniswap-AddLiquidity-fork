@@ -1,0 +1,12 @@
+FactoryAddress = "0x18aAd47b1bD7835b098b4544E5b50b6B2d479E01"
+
+WETH smartContract Address:  0x4E05Ec745110BBE736b30cae290Bf799ecd9ad08
+
+
+Router smartContract Address:  0x3375019267903A955E3DDaF382C3293361649Fe8
+
+
+TokenA  smartContract Address:  0x4a2fd1a0Cb1Dd441dDB4f7fa058AB6B4a3394522
+
+
+TokenB  smartContract Address:  0x67686d93088a9e45A85deF3BD1E027AEEA63f6a9
